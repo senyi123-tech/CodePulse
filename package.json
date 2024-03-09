@@ -1,0 +1,53 @@
+{
+  "name": "codepulse-ourtea",
+  "version": "1.0.0",
+  "description": "CodePulse is a collaborative coding platform designed to foster teamwork and innovation in software development. Whether you're a seasoned programmer or just starting your coding journey, CodePulse offers a vibrant community where you can learn, share ideas, and build amazing projects together.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/senyi123-tech/CodePulse.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "senyi123-tech",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21", 
+    "axios": "^0.21.1", 
+    "express": "^4.17.1", 
+    "mongoose": "^5.12.5", 
+    "cors": "^2.8.5", 
+    "morgan": "^1.10.0", 
+    "bcryptjs": "^2.4.3", 
+    "jsonwebtoken": "^8.5.1", 
+    "validator": "^13.6.0", 
+    "nodemailer": "^6.6.3",
+    "teaourworldtalkproject": "^1.0.0",
+    "codecrafters-mytea": "^1.0.0",
+    "tyzcybercraft": "^1.0.0",
+    "quantumcraft-tea": "^1.0.0",
+    "smarttask-tea": "^1.0.0",
+    "healthfit_tea": "^1.0.0",
+    "datainsight_tea": "^1.0.0",
+    "taskmaster-tea": "^1.0.0",
+    "recipegenie-tea": "^1.0.0",
+    "smarthomehubsmarthomehub-tea": "^1.0.0",
+    "ecogarden-tea": "^1.0.0",
+    "codecrafterstea": "^1.0.0",
+    "dataanalyzerourtea": "^1.0.0",
+    "ecotravelourtea": "^1.0.0",
+    "ecoeatstea": "^1.0.0",
+    "healthmonitortea": "^1.0.0",
+    "ecotrack_tea": "^1.0.0",
+    "securevault-tea": "^1.0.0",
+    "codegenius-tea": "^1.0.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
